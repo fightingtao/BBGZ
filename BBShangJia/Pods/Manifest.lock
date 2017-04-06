@@ -1,0 +1,58 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - BaiduMapKit (3.0.0)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.7)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDAutoLayout (2.1.1)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - SVProgressHUD (2.0.4)
+  - UMengAnalytics (4.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - BaiduMapKit (~> 3.0.0)
+  - MBProgressHUD (~> 0.9.2)
+  - MJRefresh (~> 3.1.7)
+  - ReactiveCocoa (~> 2.5)
+  - SDAutoLayout (~> 2.1.1)
+  - SDWebImage (~> 3.8.1)
+  - SVProgressHUD (~> 2.0.3)
+  - UMengAnalytics (~> 4.0.4)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  BaiduMapKit: de2a726d5296d6b2dc0e974b683af73153608dcd
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: f67f0750d57a4e4ae433da549359ca53b52cdc7d
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDAutoLayout: c18678b6ae28c67d89cb132e770cfbac9ee20d25
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
+  UMengAnalytics: 4ed421fb3bca63b26fc13c947743cabf3831d199
+
+PODFILE CHECKSUM: 2041bb5c3623b2fbfab5378be84c4cad38e0d526
+
+COCOAPODS: 1.2.0

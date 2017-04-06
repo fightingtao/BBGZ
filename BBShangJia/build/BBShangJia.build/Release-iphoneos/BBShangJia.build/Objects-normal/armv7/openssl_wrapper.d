@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/Util/openssl_wrapper.m \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/Util/openssl_wrapper.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/rsa.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/asn1.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/e_os2.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/opensslconf.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/bio.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/crypto.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/stack.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/safestack.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/opensslv.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/ossl_typ.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/symhacks.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/bn.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/pem.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/evp.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/objects.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/obj_mac.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/x509.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/buffer.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/ec.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/ecdsa.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/ecdh.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/dsa.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/dh.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/sha.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/x509_vfy.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/lhash.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/pkcs7.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/pem2.h \
+  /Users/lizhiming/Desktop/邦办雇主/ios.JD.seller/BBShangJia/BBShangJia/Pay/openssl/md5.h
